@@ -1,0 +1,25 @@
+.meal_img{
+    max-width: 15em;
+    max-height: 10em;
+  border: 10px solid rgb(236, 236, 248);
+  border-radius: 5px; 
+ 
+}
+
+.meal_list {
+    display: flex;
+flex-wrap: wrap;
+  justify-content: space-evenly
+}
+.meal{
+    display: flex;
+   flex-direction: column;
+
+}
+
+.trash-button{
+    max-width: 15px;
+    max-height: 15px;
+  border-radius: 5px; 
+ 
+}

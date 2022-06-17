@@ -1,0 +1,20 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 3px solid rgb(236, 236, 248);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+ 
+  
+  }
+  .nav-link {
+    display: flex;
+      flex-basis: 20%;
+      list-style-type: none;
+      font-weight: bolder;
+      border: 3px solid rgb(236, 236, 248);
+      box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+      justify-content: space-between;
+  
+      
+  }
